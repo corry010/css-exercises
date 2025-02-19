@@ -1,0 +1,11 @@
+.blk{
+    background: black;
+    color: #fff;
+}
+.ylw{
+    background: rgb(243, 243, 114);
+}
+.blk, .ylw{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
